@@ -1,0 +1,4 @@
+Poha	2	Hot Milk	2
+Omelet	1	Poha	1
+Hot Milk	1	Poha	1	Omelet	1
+Poha	2	Tea	2

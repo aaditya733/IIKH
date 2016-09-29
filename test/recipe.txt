@@ -1,0 +1,4 @@
+Hot Milk	Milk,Sugar	Boil the milk and serve.
+Omelet	Egg, Oil	Pour in egg mixture and heat.
+Poha	Parched Rice, Potato, Chili, Oil	Garnish the poha with chopped potato and chili with oil.
+Tea	Milk, Water, Tea Leaves	Mix tea leaves and milk in boiling water and mix well.
